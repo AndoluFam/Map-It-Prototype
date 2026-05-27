@@ -380,8 +380,8 @@ This project is licensed under the MIT License — see [LICENSE](./LICENSE) file
 
 ## Contact & Credits
 
-**Built by:** [Your Name]  
-**Inspired by:** The fear of losing my class to graduation, and the determination to stay connected across continents.
+**Built by:** [An (Andrew) Pham]  
+**Inspired by:** Making the time spent with that one cohort memorable. Determination to make people feel connected.
 
 **Get in touch:**
 - 📧 Email: [andrewpham01.work@gmail.com]
@@ -390,6 +390,9 @@ This project is licensed under the MIT License — see [LICENSE](./LICENSE) file
 - 🌐 Portfolio: [theandrewpham.com] - still in works :D
 
 **Special thanks to:**
+- REPLIT for building out and hosting the platform.
+- Netlify for quickly deploying the landing page
+- Figma AI to help design the landing page
 - Firebase for real-time magic
 - Leaflet & CARTO for mapping simplicity
 - Conrell Class of 2026 MPS Cohort for being scattered across the world (and inspiring this).
